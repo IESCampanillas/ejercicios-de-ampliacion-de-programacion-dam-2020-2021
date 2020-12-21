@@ -10,7 +10,7 @@ En este repositiorio de GitHub se dan las indicaciones necesarias para subir not
 
 Las plataformas online para la realización de ejercicios en Java que se van a utilizar para subir nota son [ProjectEuler](https://projecteuler.net/) y [HackerRank](https://www.hackerrank.com/).
 
-| Apellidos, nombre               | Nombre de usuario en ProjectEuler | Nombre de usuario en HackerRank | Enlace al repositorio de GitHub con los ejercicios |
+|                                 | Nombre de usuario en ProjectEuler | Nombre de usuario en HackerRank | Enlace al repositorio de GitHub con los ejercicios |
 | :------------------------------ | :------------------------------:  | :---------------------------:   | :-----------------------------------------------:  |
 |  Andrés Domínguez, Javier       |                                   |                                 |                     []()                           |
 |  Buendía López, Jairo           |                                   |                                 |                     []()                           |
