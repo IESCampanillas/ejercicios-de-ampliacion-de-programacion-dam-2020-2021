@@ -48,9 +48,12 @@ El alumno o alumna que quiera subir nota mediante la realización de ejercicios 
 
 La nota que se subirá por los ejercicios realizados en ProjectEuler y HackerRank está por determinar. Se pondrá en breve aquí mismo.
 
-## Ejercicios del libro
+## Requisitos indispensables para subir nota
 
-Para que los ejercicios realizados en ProjectEuler y HackerRank cuenten para subir nota, es muy importante tener hechos todos los ejercicios del [libro de la asignatura](https://leanpub.com/aprendejava/) hasta el capítulo que se haya visto en clase y tenerlos subidos al correspondiente repositorio de GitHub. 
+Para que los ejercicios realizados en ProjectEuler y HackerRank cuenten para subir nota, es imprescindible cumplir los siguientes requisitos:
+
+* Tener aprobados los exámenes y trabajos obligatorios.
+* Tener hechos todos los ejercicios del [libro de la asignatura](https://leanpub.com/aprendejava/) hasta el capítulo que se haya visto en clase y tenerlos subidos al correspondiente repositorio de GitHub. 
 
 ## Ejercicios de ampliación del libro
 
