@@ -24,7 +24,7 @@ Las plataformas online para la realización de ejercicios en Java que se van a u
 |  García Gómez, Sergio           |                                   |                                 |                     []()                           |
 |  Gutiérrez Ramírez, Jesús       |                                   |                                 |                     []()                           |
 |  López Lozano, Santos           |                                   |                                 |                     []()                           |
-|  López Pérez, Cruz              |                                   |                                 |                     []()                           |
+|  López Pérez, Cruz              |                                   |                                 |                     [https://github.com/mcruzlp/ejercicios_ampliacion.git]()                           |
 |  Millán Rebollo, Noel           |                                   |                                 |                     []()                           |
 |  Millón Cortés, Manuel Alejandro|                                   |                                 |                     []()                           |
 |  Morales Aragón, Marcos         |                                   |                                 |                     []()                           |
