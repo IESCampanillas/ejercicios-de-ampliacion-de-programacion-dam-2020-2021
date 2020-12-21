@@ -21,7 +21,7 @@ Las plataformas online para la realización de ejercicios en Java que se van a u
 |  Estrada Cobo, Jose Manuel      |                                   |                                 |                     []()                           |
 |  Fabián El Belaizi, Daniel      |                                   |                                 |                     []()                           |
 |  García Campoy, Daniel          |                                   |                                 |                     []()                           |
-|  García Gómez, Sergio           |                                   |                                 |                     []()                           |
+|  García Gómez, Sergio           |             SergioGarciaGomez     |            Seryigg              |                     []()                           |
 |  Gutiérrez Ramírez, Jesús       |                                   |                                 |                     []()                           |
 |  López Lozano, Santos           |                                   |                                 |                     []()                           |
 |  López Pérez, Cruz              |              mcruzlp              |             mcruzlp             |                     [https://github.com/mcruzlp/ejercicios_ampliacion.git]()                           |
