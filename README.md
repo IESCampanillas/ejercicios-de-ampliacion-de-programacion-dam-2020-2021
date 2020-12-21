@@ -34,5 +34,21 @@ Las plataformas online para la realización de ejercicios en Java que se van a u
 |  Salmerón Robles, Gonzalo José  |                                   |                                 |                     []()                           |
 |  Sevilla Valderrama, Fernando Iván|                                   |                                 |                     []()                           |    Sicilia Pérez, Francisco Javier   |                                   |                                 |                     []()                           |
 
+## Instrucciones
+
+El alumno o alumna que quiera subir nota mediante la realización de ejercicios usando estas plataformas deberá seguir los siguientes pasos:
+
+* Registrarse en la plataforma que vaya a usar. Se puede usar una de ellas o las dos.
+* Crear un repositorio **privado** para ir subiendo las soluciones a los ejercicios e invitar al [profesor](https://github.com/LuisJoseSanchez) para que tenga acceso a ese repositorio.
+* Rellenar la tabla del apartado anterior con los datos que se piden.
+* Llevar un diario semanal con los progresos en el `README.md`. Se indica la semana, por ej. **Semana del 4 al 10 de enero de 2021** junto a los progresos, por ej. **Termino los ejercicios del tema 5 del libro, resuelvo el problema 1 de Proyecto Euler**.
+* Cada alumno puede realizar los ejercicios a su ritmo y en el orden que quiera.
+
+## Cuantía de nota
+
+La nota que se subirá por los ejercicios realizados en ProjectEuler y HackerRank está por determinar. Se pondrá en breve aquí mismo.
+
+## Ejercicios del 
+
 ## Ejercicios de ampliación del libro
 
