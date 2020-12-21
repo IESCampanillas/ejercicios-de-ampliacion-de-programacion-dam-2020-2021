@@ -4,7 +4,7 @@ En este repositiorio de GitHub se dan las indicaciones necesarias para subir not
 
 ## Plataformas de ejercicios
 
-<img src=""> <img src="">
+<img src="projecteuler.png"> <img src="hackerrank.png">
 
 Las plataformas online para la realización de ejercicios en Java que se van a utilizar para subir nota son [ProjectEuler](https://projecteuler.net/) y [HackerRank](https://www.hackerrank.com/).
 
