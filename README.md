@@ -48,7 +48,10 @@ El alumno o alumna que quiera subir nota mediante la realización de ejercicios 
 
 La nota que se subirá por los ejercicios realizados en ProjectEuler y HackerRank está por determinar. Se pondrá en breve aquí mismo.
 
-## Ejercicios del 
+## Ejercicios del libro
+
+Para que los ejercicios realizados en ProjectEuler y HackerRank cuenten para subir nota, es muy importante tener hechos todos los ejercicios del libro de la asignatura hasta el capítulo que se haya visto en clase y tenerlos subidos al correspondiente repositorio de GitHub. 
 
 ## Ejercicios de ampliación del libro
 
+En el libro de la asignatura () hay un apéndice con ejercicios de ampliación para subir nota.
