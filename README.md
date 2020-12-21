@@ -57,4 +57,4 @@ Para que los ejercicios realizados en ProjectEuler y HackerRank cuenten para sub
 
 ## Ejercicios de ampliación del libro
 
-En el [libro de la asignatura](https://leanpub.com/aprendejava/) hay un apéndice con ejercicios de ampliación para subir nota.
+En el **Apéndice A** del [libro de la asignatura](https://leanpub.com/aprendejava/) hay ejercicios de ampliación para subir nota la nota final del curso.
