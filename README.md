@@ -16,7 +16,7 @@ Las plataformas online para la realización de ejercicios en Java que se van a u
 | :------------------------------ | :------------------------------:  | :---------------------------:   | :-----------------------------------------------:  |
 |  Andrés Domínguez, Javier       |                                   |                                 |                     []()                           |
 |  Buendía López, Jairo           |                                   |                                 |                     []()                           |
-|  De Abrisqueta Rangel, Ander    |                                   |        @ander_deabrisqu1        |                     []()                           |
+|  De Abrisqueta Rangel, Ander    |             adeabris              |        @ander_deabrisqu1        |                     []()                           |
 |  Egea Hermoso, Adrián           |                                   |                                 |                     []()                           |
 |  Estrada Cobo, Jose Manuel      |                                   |                                 |                     []()                           |
 |  Fabián El Belaizi, Daniel      |                                   |                                 |                     []()                           |
